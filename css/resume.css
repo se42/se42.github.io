@@ -48,8 +48,10 @@ h2 {
   font-size: 3rem; }
   .list-icons .list-inline-item i:hover {
     color: #007bff; }
-  .list-icons .list-inline-item span .icon-comment {
-    font-size: 1rem; }
+
+span.icon-comment {
+  font-size: 1rem;
+  vertical-align: middle; }
 
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 600;

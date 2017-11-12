@@ -59,9 +59,9 @@ h2 {
       color: $primary;
     }
   }
-  .list-inline-item span {
-    .icon-comment {
-      font-size: 1rem;
-    }
-  }
+}
+
+span.icon-comment {
+  font-size: 1rem;
+  vertical-align: middle;
 }

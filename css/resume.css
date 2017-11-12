@@ -53,6 +53,9 @@ span.icon-comment {
   font-size: 1rem;
   vertical-align: middle; }
 
+.colored {
+  color: #007bff; }
+
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 600;
   text-transform: uppercase; }

@@ -44,7 +44,7 @@ h2 {
   a {
     color: $gray-700;
     &:hover {
-      color: $primary;
+      color: $secondary;
     }
     .fa-lg {
       font-size: 1.75rem;
@@ -56,7 +56,7 @@ h2 {
   font-size: 3rem;
   .list-inline-item i {
     &:hover {
-      color: $primary;
+      color: $secondary;
     }
   }
 }

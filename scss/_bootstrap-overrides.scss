@@ -12,5 +12,6 @@ a {
   &:focus,
   &:active {
     color: $secondary;
+    text-decoration: none;
   }
 }

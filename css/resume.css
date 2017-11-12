@@ -116,4 +116,5 @@ section.resume-section {
 a {
   color: #007bff; }
   a:hover, a:focus, a:active {
-    color: #ff5722; }
+    color: #ff5722;
+    text-decoration: none; }

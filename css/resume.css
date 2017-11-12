@@ -74,7 +74,7 @@ span.icon-comment {
       #sideNav .navbar-brand .img-profile {
         max-width: 10rem;
         max-height: 10rem;
-        border: 0.5rem solid rgba(255, 255, 255, 0.2); }
+        border: 0.5rem solid #ff5722; }
     #sideNav .navbar-collapse {
       display: flex;
       align-items: flex-start;
@@ -116,4 +116,4 @@ section.resume-section {
 a {
   color: #007bff; }
   a:hover, a:focus, a:active {
-    color: #0056b3; }
+    color: #ff5722; }

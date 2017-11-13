@@ -76,8 +76,7 @@ span.icon-comment {
       padding: 0.5rem; }
       #sideNav .navbar-brand .img-profile {
         max-width: 10rem;
-        max-height: 10rem;
-        border: 0.2rem solid #ff5722; }
+        max-height: 10rem; }
     #sideNav .navbar-collapse {
       display: flex;
       align-items: flex-start;
